@@ -1,0 +1,6 @@
+Anupam :
+MA( moving average)
+EMA ( exponential moving average)
+ARMA( auto regressive MA) 
+ARIMA
+SARIMA

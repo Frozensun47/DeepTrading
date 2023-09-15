@@ -1,0 +1,16 @@
+sagar
+1m data of past 10+ years
+Ensemble learning
+Integration of all the models, 
+Reinforcement Learning algorithms
+Transformer with RNN
+Attention with RNN
+
+
+Extras :
+Plotly Dash
+Momentum
+Bollinger bands
+MACD
+Fourier transform with multiple components
+Analysing ROE P/E 10-k 10-Q

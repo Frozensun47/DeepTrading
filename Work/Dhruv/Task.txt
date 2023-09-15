@@ -1,0 +1,4 @@
+Dhruv:
+Transformer
+(Standalone or integrated with gan/RNN/ RL)
+XGBoost and similar boosting algos

@@ -1,0 +1,3 @@
+Sachin : 
+RNN 
+(Lstm,bilstm,gru,etc etc)

@@ -1,0 +1,4 @@
+Sanchit:
+RL ( reinforcement learning) 
+Attention
+GAN

@@ -1,0 +1,8 @@
+1) Basic:
+Download the files , 
+make changes , 
+upload the updated file .
+Or copy the python code from github , make changes , update the code manually.
+
+2) using comands : 
+

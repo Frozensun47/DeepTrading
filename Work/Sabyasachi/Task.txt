@@ -1,0 +1,6 @@
+Sabyasachi:
+NLP : sentiment analysis
+(BERT)
+
+Data extraction: web scrapper/ crawler
+On news articles or twitter/fb/insta comments etc or search feeds
