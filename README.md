@@ -8,7 +8,7 @@ In this project, we've conducted a comprehensive analysis of the stock data. Bel
 
 ### 1. Plot of Opening Prices of All Equities
 
-![ALL DATA](https://github.com/Frozensun47/DeepTrading/blob/main/outputs/Data_of%20all_companies.png)
+![ALL DATA](https://github.com/Frozensun47/DeepTrading/blob/main/outputs/Data_of%20_all_companies.png)
 
 **Context:** This visualization shows the opening prices of all the equities in our dataset. It provides an initial overview of the stock price trends for the companies we've studied.
 
